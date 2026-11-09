@@ -251,6 +251,9 @@ Each table row is `name: (ABV %, sugar g/100 mL, titratable acid %, kind)`. The 
 
 To add an ingredient, add a row to `ADDED`.
 
+## AI Usage Disclosure
+Claude was used to help prepare code in this repo and this readme. Functionality and language was modified and reviewed by the author.
+
 ## References
 
 - Arnold, D. (2014). *Liquid Intelligence: The Art and Science of the Perfect Cocktail*. W. W. Norton.
